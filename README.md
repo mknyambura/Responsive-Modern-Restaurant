@@ -1,6 +1,6 @@
 <h3>Author: Mercy F. Nyambura Kariuki</h3>
 <h3>License: MIT</h3>
-<h3>Fignma UI/UX design file: https://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=53%3A2&t=TcTTwJxsJismpWIm-0</h3>
+<h3>Fignma UI/UX design file: https://ui8.net/iqonicdesign/products/gericht-restaurant-website-ui-in-figma</h3>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
