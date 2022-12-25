@@ -1,0 +1,14 @@
+.header {
+    background: #0c0c0c;
+}
+.header-h1 {
+    color: #dcca87;
+    font-family: 'Cormorant Upright', serif;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    line-height: 117px;
+    font-size: 90px;
+}
+.header-image img {
+    width: 100%;
+}
