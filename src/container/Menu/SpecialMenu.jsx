@@ -26,17 +26,16 @@ const SpecialMenu = () => (
       </div>
       {/* Cocktails  */}
       <div className="special-menu-menu-cocktails flex-center">
-        <p className='special-menu-menu-heading'>cocktails</p>
+        <p className='special-menu-menu-heading'>Cocktails</p>
         <div className="special-menu-items">
           {data.cocktails.map((cocktail, index) => (
             <MenuItem key={cocktail.title + index} title={cocktail.title} price={cocktail.price} tags={cocktail.tags}/>
           ))}
         </div>
       </div>
-      
-      <div style={{marginTop: '15px'}}>
-        <button className="custom-buttom" type='button'>View More</button>
-      </div>
+    </div>
+    <div style={{marginTop: '15px'}}>
+      <button className="custom-button" type='button'>View More</button>
     </div>
   </div>
 );
